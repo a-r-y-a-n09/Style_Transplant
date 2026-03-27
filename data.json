@@ -4,6 +4,6 @@
   "concept": "overfitting",
   "tradition_name": "Japanese Edo-period ukiyo-e woodblock prints",
   "tradition_period": "1603–1868 (specifically 1820s–1830s actor portrait style)",
-  "tradition_approach": "Obsessive figure detail versus simplified background. Diagonal composition, muted palette, decisive line work, woodblock texture. Detail-simplification embodies overfitting through compositional structure.",
+  "tradition_approach": "Excessive fabric pattern detail mirrors training data memorization. Simplified background reflects poor generalization. Asymmetrical composition, flat color, decisive line work embody ukiyo-e grammar authentically.",
   "publish_email": true
 }
